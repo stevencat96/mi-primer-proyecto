@@ -1,0 +1,15 @@
+C:\Users\STEVEN\Desktop\repo-GH\mi-primer-proyecto\bin\Debug\net6.0\mi-primer-proyecto.exe
+C:\Users\STEVEN\Desktop\repo-GH\mi-primer-proyecto\bin\Debug\net6.0\mi-primer-proyecto.deps.json
+C:\Users\STEVEN\Desktop\repo-GH\mi-primer-proyecto\bin\Debug\net6.0\mi-primer-proyecto.runtimeconfig.json
+C:\Users\STEVEN\Desktop\repo-GH\mi-primer-proyecto\bin\Debug\net6.0\mi-primer-proyecto.dll
+C:\Users\STEVEN\Desktop\repo-GH\mi-primer-proyecto\bin\Debug\net6.0\mi-primer-proyecto.pdb
+C:\Users\STEVEN\Desktop\repo-GH\mi-primer-proyecto\obj\Debug\net6.0\mi-primer-proyecto.csproj.AssemblyReference.cache
+C:\Users\STEVEN\Desktop\repo-GH\mi-primer-proyecto\obj\Debug\net6.0\mi-primer-proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEVEN\Desktop\repo-GH\mi-primer-proyecto\obj\Debug\net6.0\mi-primer-proyecto.AssemblyInfoInputs.cache
+C:\Users\STEVEN\Desktop\repo-GH\mi-primer-proyecto\obj\Debug\net6.0\mi-primer-proyecto.AssemblyInfo.cs
+C:\Users\STEVEN\Desktop\repo-GH\mi-primer-proyecto\obj\Debug\net6.0\mi-primer-proyecto.csproj.CoreCompileInputs.cache
+C:\Users\STEVEN\Desktop\repo-GH\mi-primer-proyecto\obj\Debug\net6.0\mi-primer-proyecto.dll
+C:\Users\STEVEN\Desktop\repo-GH\mi-primer-proyecto\obj\Debug\net6.0\refint\mi-primer-proyecto.dll
+C:\Users\STEVEN\Desktop\repo-GH\mi-primer-proyecto\obj\Debug\net6.0\mi-primer-proyecto.pdb
+C:\Users\STEVEN\Desktop\repo-GH\mi-primer-proyecto\obj\Debug\net6.0\mi-primer-proyecto.genruntimeconfig.cache
+C:\Users\STEVEN\Desktop\repo-GH\mi-primer-proyecto\obj\Debug\net6.0\ref\mi-primer-proyecto.dll
